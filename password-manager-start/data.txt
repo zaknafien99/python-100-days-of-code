@@ -1,0 +1,6 @@
+Amazon | example@email.com | Password
+Facebook | example@facebook.com | PWRdio
+www.website.site | email@myplace.com | blassword
+asdf | example@email.com | asdf
+Chitter | em@chitter.com | !Y+*04arb$b9G3mjxY
+PyPi | ngzervos@gmail.com | %g3YTcf*Nu5DG2#6

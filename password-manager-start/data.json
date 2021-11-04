@@ -1,0 +1,14 @@
+{
+    "amazon": {
+        "email": "user@amazon.com",
+        "password": "mc$)xIYdk0g9B4Y$"
+    },
+    "Ebay": {
+        "email": "nick@ebay.com",
+        "password": "NUe#52l#&ig$nOO"
+    },
+    "Twitter": {
+        "email": "nick@email.com",
+        "password": "5DSqr(J5)c%(fJ"
+    }
+}
